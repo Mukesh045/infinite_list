@@ -1,0 +1,2 @@
+C:/Users/mukesh singh/Desktop/infinite_list/android/app/.cxx/Debug/4n5a6t5a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/mukesh singh/Desktop/infinite_list/android/app/.cxx/Debug/4n5a6t5a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
